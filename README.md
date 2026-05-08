@@ -1,14 +1,17 @@
-# Medical Data Analysis and Calibration
+# Assignment 2 — Calibration of Probabilities
 
-This project focuses on machine learning analysis of medical datasets, including breast cancer and heart disease prediction tasks. The main objective is to evaluate model performance, probability calibration, and reliability of predictions on real-world healthcare data.
+This project is based on the paper *Predicting Good Probabilities with Supervised Learning* by Alexandru Niculescu-Mizil and Rich Caruana (ICML 2005). The main focus of the project is to evaluate and improve the calibration of probabilistic classifiers using real-world medical datasets.
+
+The project investigates how machine learning models can produce reliable probability estimates in addition to accurate predictions. Special attention is given to calibration quality, confidence estimation, and reliability analysis for healthcare-related classification tasks.
 
 ## Project Goals
 
-- Load and preprocess medical datasets
-- Train machine learning classification models
-- Evaluate prediction performance
-- Analyze calibration quality and reliability
-- Generate visualizations and performance metrics
+- Evaluate the calibration of probabilistic classifiers
+- Analyze prediction confidence and reliability
+- Compare classification performance and calibration quality
+- Apply calibration analysis to medical datasets
+- Generate reliability diagrams and calibration metrics
+- Study the relationship between prediction accuracy and probability estimation
 
 ## Implemented Features
 
