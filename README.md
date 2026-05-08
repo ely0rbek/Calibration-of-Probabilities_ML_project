@@ -47,8 +47,15 @@ In this project, only the `processed.cleveland.data` subset is used because:
 - is widely used as a benchmark in research,
 - and is already preprocessed for machine learning tasks.
 
+## How to Run
+
+- 1. Clone the Repository
+- 2. Run full_analysis.ipynb or full_analysis.py file.
+
+
 ## Project Structure
 
+``` id="9owm4j"
 project/
 │
 ├── Datasets/
